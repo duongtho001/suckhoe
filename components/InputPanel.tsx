@@ -388,6 +388,7 @@ export const InputPanel: React.FC<InputPanelProps> = ({
               </select>
             </div>
           </div>
+        </div>
       </div>
 
       <button
